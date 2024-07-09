@@ -1,0 +1,105 @@
+[09-Feb-2024 03:38:09 Europe/Berlin] PHP Warning:  Attempt to read property "title" on null in C:\xampp\htdocs\api\models\MovieModel.php on line 104
+[09-Feb-2024 03:38:09 Europe/Berlin] PHP Stack trace:
+[09-Feb-2024 03:38:09 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\api\index.php:0
+[09-Feb-2024 03:38:09 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\api\index.php:30
+[09-Feb-2024 03:38:09 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\api\controllers\RoutesController.php:6
+[09-Feb-2024 03:38:09 Europe/Berlin] PHP   4. movie->create() C:\xampp\htdocs\api\routes\routes.php:64
+[09-Feb-2024 03:38:09 Europe/Berlin] PHP   5. MovieModel->create($objeto = NULL) C:\xampp\htdocs\api\controllers\MovieController.php:108
+[09-Feb-2024 03:38:09 Europe/Berlin] PHP Warning:  Attempt to read property "year" on null in C:\xampp\htdocs\api\models\MovieModel.php on line 104
+[09-Feb-2024 03:38:09 Europe/Berlin] PHP Stack trace:
+[09-Feb-2024 03:38:09 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\api\index.php:0
+[09-Feb-2024 03:38:09 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\api\index.php:30
+[09-Feb-2024 03:38:09 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\api\controllers\RoutesController.php:6
+[09-Feb-2024 03:38:09 Europe/Berlin] PHP   4. movie->create() C:\xampp\htdocs\api\routes\routes.php:64
+[09-Feb-2024 03:38:09 Europe/Berlin] PHP   5. MovieModel->create($objeto = NULL) C:\xampp\htdocs\api\controllers\MovieController.php:108
+[09-Feb-2024 03:38:09 Europe/Berlin] PHP Warning:  Attempt to read property "time" on null in C:\xampp\htdocs\api\models\MovieModel.php on line 104
+[09-Feb-2024 03:38:09 Europe/Berlin] PHP Stack trace:
+[09-Feb-2024 03:38:09 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\api\index.php:0
+[09-Feb-2024 03:38:09 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\api\index.php:30
+[09-Feb-2024 03:38:09 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\api\controllers\RoutesController.php:6
+[09-Feb-2024 03:38:09 Europe/Berlin] PHP   4. movie->create() C:\xampp\htdocs\api\routes\routes.php:64
+[09-Feb-2024 03:38:09 Europe/Berlin] PHP   5. MovieModel->create($objeto = NULL) C:\xampp\htdocs\api\controllers\MovieController.php:108
+[09-Feb-2024 03:38:09 Europe/Berlin] PHP Warning:  Attempt to read property "lang" on null in C:\xampp\htdocs\api\models\MovieModel.php on line 104
+[09-Feb-2024 03:38:09 Europe/Berlin] PHP Stack trace:
+[09-Feb-2024 03:38:09 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\api\index.php:0
+[09-Feb-2024 03:38:09 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\api\index.php:30
+[09-Feb-2024 03:38:09 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\api\controllers\RoutesController.php:6
+[09-Feb-2024 03:38:09 Europe/Berlin] PHP   4. movie->create() C:\xampp\htdocs\api\routes\routes.php:64
+[09-Feb-2024 03:38:09 Europe/Berlin] PHP   5. MovieModel->create($objeto = NULL) C:\xampp\htdocs\api\controllers\MovieController.php:108
+[09-Feb-2024 03:38:09 Europe/Berlin] PHP Warning:  Attempt to read property "director_id" on null in C:\xampp\htdocs\api\models\MovieModel.php on line 104
+[09-Feb-2024 03:38:09 Europe/Berlin] PHP Stack trace:
+[09-Feb-2024 03:38:09 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\api\index.php:0
+[09-Feb-2024 03:38:09 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\api\index.php:30
+[09-Feb-2024 03:38:09 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\api\controllers\RoutesController.php:6
+[09-Feb-2024 03:38:09 Europe/Berlin] PHP   4. movie->create() C:\xampp\htdocs\api\routes\routes.php:64
+[09-Feb-2024 03:38:09 Europe/Berlin] PHP   5. MovieModel->create($objeto = NULL) C:\xampp\htdocs\api\controllers\MovieController.php:108
+[09-Feb-2024 03:39:20 Europe/Berlin] PHP Warning:  Attempt to read property "title" on null in C:\xampp\htdocs\api\models\MovieModel.php on line 104
+[09-Feb-2024 03:39:20 Europe/Berlin] PHP Stack trace:
+[09-Feb-2024 03:39:20 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\api\index.php:0
+[09-Feb-2024 03:39:20 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\api\index.php:30
+[09-Feb-2024 03:39:20 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\api\controllers\RoutesController.php:6
+[09-Feb-2024 03:39:20 Europe/Berlin] PHP   4. movie->create() C:\xampp\htdocs\api\routes\routes.php:64
+[09-Feb-2024 03:39:20 Europe/Berlin] PHP   5. MovieModel->create($objeto = NULL) C:\xampp\htdocs\api\controllers\MovieController.php:108
+[09-Feb-2024 03:39:20 Europe/Berlin] PHP Warning:  Attempt to read property "year" on null in C:\xampp\htdocs\api\models\MovieModel.php on line 104
+[09-Feb-2024 03:39:20 Europe/Berlin] PHP Stack trace:
+[09-Feb-2024 03:39:20 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\api\index.php:0
+[09-Feb-2024 03:39:20 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\api\index.php:30
+[09-Feb-2024 03:39:20 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\api\controllers\RoutesController.php:6
+[09-Feb-2024 03:39:20 Europe/Berlin] PHP   4. movie->create() C:\xampp\htdocs\api\routes\routes.php:64
+[09-Feb-2024 03:39:20 Europe/Berlin] PHP   5. MovieModel->create($objeto = NULL) C:\xampp\htdocs\api\controllers\MovieController.php:108
+[09-Feb-2024 03:39:20 Europe/Berlin] PHP Warning:  Attempt to read property "time" on null in C:\xampp\htdocs\api\models\MovieModel.php on line 104
+[09-Feb-2024 03:39:20 Europe/Berlin] PHP Stack trace:
+[09-Feb-2024 03:39:20 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\api\index.php:0
+[09-Feb-2024 03:39:20 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\api\index.php:30
+[09-Feb-2024 03:39:20 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\api\controllers\RoutesController.php:6
+[09-Feb-2024 03:39:20 Europe/Berlin] PHP   4. movie->create() C:\xampp\htdocs\api\routes\routes.php:64
+[09-Feb-2024 03:39:20 Europe/Berlin] PHP   5. MovieModel->create($objeto = NULL) C:\xampp\htdocs\api\controllers\MovieController.php:108
+[09-Feb-2024 03:39:20 Europe/Berlin] PHP Warning:  Attempt to read property "lang" on null in C:\xampp\htdocs\api\models\MovieModel.php on line 104
+[09-Feb-2024 03:39:20 Europe/Berlin] PHP Stack trace:
+[09-Feb-2024 03:39:20 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\api\index.php:0
+[09-Feb-2024 03:39:20 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\api\index.php:30
+[09-Feb-2024 03:39:20 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\api\controllers\RoutesController.php:6
+[09-Feb-2024 03:39:20 Europe/Berlin] PHP   4. movie->create() C:\xampp\htdocs\api\routes\routes.php:64
+[09-Feb-2024 03:39:20 Europe/Berlin] PHP   5. MovieModel->create($objeto = NULL) C:\xampp\htdocs\api\controllers\MovieController.php:108
+[09-Feb-2024 03:39:20 Europe/Berlin] PHP Warning:  Attempt to read property "director_id" on null in C:\xampp\htdocs\api\models\MovieModel.php on line 104
+[09-Feb-2024 03:39:20 Europe/Berlin] PHP Stack trace:
+[09-Feb-2024 03:39:20 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\api\index.php:0
+[09-Feb-2024 03:39:20 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\api\index.php:30
+[09-Feb-2024 03:39:20 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\api\controllers\RoutesController.php:6
+[09-Feb-2024 03:39:20 Europe/Berlin] PHP   4. movie->create() C:\xampp\htdocs\api\routes\routes.php:64
+[09-Feb-2024 03:39:20 Europe/Berlin] PHP   5. MovieModel->create($objeto = NULL) C:\xampp\htdocs\api\controllers\MovieController.php:108
+[09-Feb-2024 03:40:15 Europe/Berlin] PHP Warning:  Attempt to read property "title" on null in C:\xampp\htdocs\api\models\MovieModel.php on line 104
+[09-Feb-2024 03:40:15 Europe/Berlin] PHP Stack trace:
+[09-Feb-2024 03:40:15 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\api\index.php:0
+[09-Feb-2024 03:40:15 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\api\index.php:30
+[09-Feb-2024 03:40:15 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\api\controllers\RoutesController.php:6
+[09-Feb-2024 03:40:15 Europe/Berlin] PHP   4. movie->create() C:\xampp\htdocs\api\routes\routes.php:64
+[09-Feb-2024 03:40:15 Europe/Berlin] PHP   5. MovieModel->create($objeto = NULL) C:\xampp\htdocs\api\controllers\MovieController.php:108
+[09-Feb-2024 03:40:15 Europe/Berlin] PHP Warning:  Attempt to read property "year" on null in C:\xampp\htdocs\api\models\MovieModel.php on line 104
+[09-Feb-2024 03:40:15 Europe/Berlin] PHP Stack trace:
+[09-Feb-2024 03:40:15 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\api\index.php:0
+[09-Feb-2024 03:40:15 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\api\index.php:30
+[09-Feb-2024 03:40:15 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\api\controllers\RoutesController.php:6
+[09-Feb-2024 03:40:15 Europe/Berlin] PHP   4. movie->create() C:\xampp\htdocs\api\routes\routes.php:64
+[09-Feb-2024 03:40:15 Europe/Berlin] PHP   5. MovieModel->create($objeto = NULL) C:\xampp\htdocs\api\controllers\MovieController.php:108
+[09-Feb-2024 03:40:15 Europe/Berlin] PHP Warning:  Attempt to read property "time" on null in C:\xampp\htdocs\api\models\MovieModel.php on line 104
+[09-Feb-2024 03:40:15 Europe/Berlin] PHP Stack trace:
+[09-Feb-2024 03:40:15 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\api\index.php:0
+[09-Feb-2024 03:40:15 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\api\index.php:30
+[09-Feb-2024 03:40:15 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\api\controllers\RoutesController.php:6
+[09-Feb-2024 03:40:15 Europe/Berlin] PHP   4. movie->create() C:\xampp\htdocs\api\routes\routes.php:64
+[09-Feb-2024 03:40:15 Europe/Berlin] PHP   5. MovieModel->create($objeto = NULL) C:\xampp\htdocs\api\controllers\MovieController.php:108
+[09-Feb-2024 03:40:15 Europe/Berlin] PHP Warning:  Attempt to read property "lang" on null in C:\xampp\htdocs\api\models\MovieModel.php on line 104
+[09-Feb-2024 03:40:15 Europe/Berlin] PHP Stack trace:
+[09-Feb-2024 03:40:15 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\api\index.php:0
+[09-Feb-2024 03:40:15 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\api\index.php:30
+[09-Feb-2024 03:40:15 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\api\controllers\RoutesController.php:6
+[09-Feb-2024 03:40:15 Europe/Berlin] PHP   4. movie->create() C:\xampp\htdocs\api\routes\routes.php:64
+[09-Feb-2024 03:40:15 Europe/Berlin] PHP   5. MovieModel->create($objeto = NULL) C:\xampp\htdocs\api\controllers\MovieController.php:108
+[09-Feb-2024 03:40:15 Europe/Berlin] PHP Warning:  Attempt to read property "director_id" on null in C:\xampp\htdocs\api\models\MovieModel.php on line 104
+[09-Feb-2024 03:40:15 Europe/Berlin] PHP Stack trace:
+[09-Feb-2024 03:40:15 Europe/Berlin] PHP   1. {main}() C:\xampp\htdocs\api\index.php:0
+[09-Feb-2024 03:40:15 Europe/Berlin] PHP   2. RoutesController->index() C:\xampp\htdocs\api\index.php:30
+[09-Feb-2024 03:40:15 Europe/Berlin] PHP   3. include() C:\xampp\htdocs\api\controllers\RoutesController.php:6
+[09-Feb-2024 03:40:15 Europe/Berlin] PHP   4. movie->create() C:\xampp\htdocs\api\routes\routes.php:64
+[09-Feb-2024 03:40:15 Europe/Berlin] PHP   5. MovieModel->create($objeto = NULL) C:\xampp\htdocs\api\controllers\MovieController.php:108
